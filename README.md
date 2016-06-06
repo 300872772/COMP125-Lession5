@@ -1,3 +1,4 @@
-# COMP125-Lesson4
+# COMP125-Lesson5
 
-## A project to demonstrate debugging techniques for COMP125 @ Centennial
+## A project to demonstrate Working with the Document Object Model (DOM) and DHTML
+ 
