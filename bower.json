@@ -1,0 +1,22 @@
+{
+  "name": "comp125-lesson5",
+  "homepage": "y",
+  "authors": [
+    "300872772 <mamun_131@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
